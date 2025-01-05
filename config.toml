@@ -17,7 +17,7 @@ module-prop-name = "youtube-revanced-module"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Twitch]
-enabled = true
+enabled = false
 version = "auto"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
