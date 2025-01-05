@@ -19,7 +19,7 @@ module-prop-name = "youtube-revanced-module"
 [Twitch]
 enabled = true
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 apkmirror-dpi = "120-640dpi"
 build-mode = "apk"
