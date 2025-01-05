@@ -16,6 +16,13 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 module-prop-name = "youtube-revanced-module"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[Twitch]
+enabled = true
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+dpi = "120-640dpi"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+
 [Messenger]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
@@ -58,12 +65,6 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Twitch]
-enabled = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
 enabled = false
