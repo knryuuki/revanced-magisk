@@ -21,7 +21,7 @@ build-mode = "module"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/meta-inc/facebook"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 module-prop-name = "facebook-revanced-module"
 
