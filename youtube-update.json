@@ -1,6 +1,6 @@
 {
   "version": "v19.47.53 (patches: 5.8.0)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/possu-x/revanced-magisk/releases/download/1/youtube-revanced-magisk-v19.47.53-all.zip",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/possu-x/revanced-magisk/releases/download/2/youtube-revanced-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/possu-x/revanced-magisk/update/build.md"
 }
